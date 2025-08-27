@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/status-beta-orange.svg)](https://github.com/hanishkeloth/agentmemory)
 
+**Language Versions**: [English](README.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [العربية](README.ar.md)
+
 **AgentMemory** is an advanced memory management framework for AI agents, providing persistent, hierarchical, and semantic memory capabilities. It addresses the critical gap in current agentic AI development: robust memory and context management across agent sessions.
 
 ## 🚀 Key Features
