@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentmemory"
+version = "0.1.0"
+description = "Advanced memory management framework for AI agents with persistent, hierarchical, and semantic capabilities"
+authors = [{name = "Hanish Keloth", email = "hanishkeloth@gmail.com"}]
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+keywords = ["ai", "agents", "memory", "llm", "agentic", "context", "rag"]
+dependencies = [
+    "numpy>=1.24.0",
+    "faiss-cpu>=1.8.0",
+    "redis>=5.0.0",
+    "pydantic>=2.0.0",
+    "typing-extensions>=4.5.0",
+    "sentence-transformers>=2.5.0",
+    "lmdb>=1.4.0",
+    "tiktoken>=0.5.0",
+    "jsonschema>=4.0.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+    "pytest-asyncio>=0.21.0",
+    "black>=23.7.0",
+    "mypy>=1.5.0",
+    "ruff>=0.0.285",
+]
+
+[project.urls]
+Homepage = "https://github.com/hanishkeloth/agentmemory"
+Documentation = "https://github.com/hanishkeloth/agentmemory/blob/main/README.md"
+Repository = "https://github.com/hanishkeloth/agentmemory"
+Issues = "https://github.com/hanishkeloth/agentmemory/issues"
