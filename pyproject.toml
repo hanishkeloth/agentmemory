@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "agentmemory"
 version = "0.1.0"
 description = "Advanced memory management framework for AI agents with persistent, hierarchical, and semantic capabilities"
-authors = [{name = "Hanish Keloth", email = "hanishkeloth@gmail.com"}]
+authors = [{name = "Hanish Keloth", email = "hanishkeloth216@gmail.com"}]
 readme = "README.md"
 license = {file = "LICENSE"}
 requires-python = ">=3.8"

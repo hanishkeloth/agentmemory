@@ -2,7 +2,7 @@
 
 **Hanish Keloth**  
 Independent Researcher  
-hanishkeloth@gmail.com  
+hanishkeloth216@gmail.com  
 
 ---
 
@@ -481,7 +481,7 @@ memory.save("agent_memory.json")
 
 **Corresponding Author:**  
 Hanish Keloth  
-Email: hanishkeloth@gmail.com  
+Email: hanishkeloth216@gmail.com  
 GitHub: https://github.com/hanishkeloth  
 
 **Data Availability:**  

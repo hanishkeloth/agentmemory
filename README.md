@@ -289,7 +289,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Hanish Keloth**
 - GitHub: [@hanishkeloth](https://github.com/hanishkeloth)
-- Email: hanishkeloth@gmail.com
+- Email: hanishkeloth216@gmail.com
 
 ## 🙏 Acknowledgments
 

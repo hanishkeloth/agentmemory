@@ -287,7 +287,7 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe [LICENSE](LICENSE) Da
 
 **Hanish Keloth**
 - GitHub: [@hanishkeloth](https://github.com/hanishkeloth)
-- Email: hanishkeloth@gmail.com
+- Email: hanishkeloth216@gmail.com
 
 ## 🙏 Danksagungen
 

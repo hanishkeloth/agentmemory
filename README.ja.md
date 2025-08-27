@@ -287,7 +287,7 @@ mypy agentmemory/
 
 **Hanish Keloth**
 - GitHub: [@hanishkeloth](https://github.com/hanishkeloth)
-- Email: hanishkeloth@gmail.com
+- Email: hanishkeloth216@gmail.com
 
 ## 🙏 謝辞
 
